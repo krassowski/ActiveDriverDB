@@ -4,7 +4,7 @@ obonet
 diskcache
 numpy
 pandas==0.24.2
-sqlalchemy==1.2.18
+sqlalchemy==1.3.19
 beautifulsoup4
 rpy2==2.9.2
 Jinja2==2.10.1
