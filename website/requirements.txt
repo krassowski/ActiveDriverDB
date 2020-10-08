@@ -12,7 +12,7 @@ Flask==1.0.2
 Flask-Assets==0.12
 Flask-Classful==0.13.1
 Flask-SQLAlchemy==2.3.1
-passlib==1.6.5
+passlib==1.7.3
 webassets==0.12.1
 mysqlclient
 tqdm
